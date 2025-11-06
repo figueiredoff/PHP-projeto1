@@ -8,7 +8,7 @@
 
     if($resultado){
         echo "<br><br>Orçamento excluído com sucesso!";
-        echo "<a href='?pg=orçamentos-admin'>Voltar</a>";
+        echo "<a href='?pg=orcamentos-admin'>Voltar</a>";
     }else{
         echo "Erro ao excluir orçamento!";
     }
